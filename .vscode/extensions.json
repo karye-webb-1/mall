@@ -1,16 +1,12 @@
 {
     "recommendations": [
-        "ms-dotnettools.csharp",
-        "ms-dotnettools.csdevkit",
         "emmanuelbeziat.vscode-great-icons",
-        "chrisdias.vscode-opennewinstance",
-        "rogalmic.vscode-xml-complete",
-        "k--kato.docomment",
-        "redhat.vscode-xml",
         "Karye.sessionlogger",
         "Karye.markdox",
         "eliostruyf.vscode-hide-comments",
-        "emmanuelbeziat.vscode-great-icons",
-        "richardzampieriprog.csharp-snippet-productivity",
+        "alefragnani.project-manager",
+        "chrisdias.vscode-opennewinstance",
+        "esbenp.prettier-vscode",
+        "ritwickdey.LiveServer"
     ]
 }
