@@ -1,16 +1,9 @@
 # Utvecklingsmiljö
 
-## Installera webbeditorn VS Code & tillägg
+## Installera webbeditorn VS Code
 
 * Installera [VS Code](https://code.visualstudio.com)
 * Installera [git-scm](https://git-scm.com)
-* Installera tilläggen:
-  * [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
-  * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-  * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-  * [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
-
-![](<.gitbook/assets/image (108).png>)
 
 Vi kan även installera via terminalen:
 
@@ -18,10 +11,27 @@ Vi kan även installera via terminalen:
 winget install Microsoft.VisualStudioCode
 winget install git.git
 ```
+### Intro till *VS Code*
+
+*VS Code* är en fantastisk editor som är gratis och som fungerar på alla plattformar.
+Här är en genomgång av *VS Code*:
+
+{% embed url="https://www.youtube.com/watch?v=B-s71n0dHUk&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6" %}
+
+### Tillägg i VS Code
+
+Här är några tillägg att installera:
+
+* [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+* [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+* [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
+
+![](<.gitbook/assets/image (108).png>)
 
 ### Inställningar i VS Code
 
-För att underlätta arbetet med *VS Code*, gör följande inställningar (Settings):
+För att underlätta arbetet med *VS Code*, gör vi följande inställningar (Settings):
 
 * [Multi-cursor](https://code.visualstudio.com/docs/editor/codebasics#\_multiple-selections-multicursor) – Välj Ctrl-Cmd  
 Det här gör att du kan skriva på flera ställen samtidigt i sidan.
@@ -71,13 +81,6 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 {% hint style="info" %}
 [https://superuser.com/questions/446827/configure-windows-powershell-to-display-only-the-current-folder-name-in-the-shel](https://superuser.com/questions/446827/configure-windows-powershell-to-display-only-the-current-folder-name-in-the-shel)
 {% endhint %}
-
-### Intro till *VS Code*
-
-*VS Code* är en fantastisk editor som är gratis och som fungerar på alla plattformar.
-Här är en genomgång av *VS Code*:
-
-{% embed url="https://www.youtube.com/watch?v=B-s71n0dHUk&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6" %}
 
 ## Komma igång med github
 
