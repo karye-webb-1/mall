@@ -47,15 +47,13 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 * Starta om *VS Code*
 
-{% hint style="info" %}
-[https://superuser.com/questions/446827/configure-windows-powershell-to-display-only-the-current-folder-name-in-the-shel](https://superuser.com/questions/446827/configure-windows-powershell-to-display-only-the-current-folder-name-in-the-shel)
-{% endhint %}
+[Hur man får en kort prompt i terminalen](https://superuser.com/questions/446827/configure-windows-powershell-to-display-only-the-current-folder-name-in-the-shel)
 
 ## Komma igång med github
 
 Github är en tjänst för att lagra och dela kod. Du kommer att använda github för att lagra dina projekt och för att lämna in labbar och prov.
 
-* Skapa ett konto på [https://github.com](https://github.com)
+* Skapa ett konto på [github.com](https://github.com)
   * Döp kontot till: klass-förnamn-efternamn
   * Valfritt lösenord
   * Använd din skolmail
