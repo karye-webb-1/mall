@@ -17,22 +17,12 @@ winget install git.git
 Här är en genomgång av *VS Code*:
 https://www.youtube.com/watch?v=B-s71n0dHUk&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6
 
-### Tillägg i VS Code
-
-Här är några tillägg att installera:
-
-* [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-* [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-* [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
-
-![](<.gitbook/assets/image (108).png>)
-
 ### Kortare prompt i Powershell
 
 I terminalen i *VS Code* är prompten väldigt lång.  
 Gör följande för att korta ned prompten i Terminalen/Konsolen i *VS Code*.
 
-* **Öppna** terminalen och **skriv/kör** dessa rader:
+* *Öppna* **terminalen** och *skriv/kör* dessa rader:
 
 ```powershell
 test-path $profile
@@ -40,7 +30,7 @@ new-item -path $profile -itemtype file -force
 code $profile
 ```
 
-* **Skriv in** följande i filen och spara:
+* I **textfönstret** *Skriv in* följande och spara:
 
 ```powershell
 function prompt {
@@ -49,7 +39,7 @@ function prompt {
 }
 ```
 
-* I terminalen **skriv/kör**:
+* I **terminalen** *skriv/kör*:
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
