@@ -15,8 +15,7 @@ winget install git.git
 
 *VS Code* är en fantastisk editor som är gratis och som fungerar på alla plattformar.
 Här är en genomgång av *VS Code*:
-
-{% embed url="https://www.youtube.com/watch?v=B-s71n0dHUk&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6" %}
+https://www.youtube.com/watch?v=B-s71n0dHUk&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6
 
 ### Tillägg i VS Code
 
