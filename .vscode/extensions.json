@@ -6,7 +6,6 @@
         "eliostruyf.vscode-hide-comments",
         "alefragnani.project-manager",
         "chrisdias.vscode-opennewinstance",
-        "ritwickdey.LiveServer",
-        "github.classroom"
+        "ritwickdey.LiveServer"
     ]
 }
