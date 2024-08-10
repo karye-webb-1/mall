@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15527658&assignment_repo_type=AssignmentRepo)
 # Utvecklingsmiljö
 
 ## Installera webbeditorn VS Code
@@ -13,13 +14,12 @@ winget install git.git
 ```
 ### Intro till *VS Code*
 
-*VS Code* är en fantastisk editor som är gratis och som fungerar på alla plattformar.
-Här är en genomgång av *VS Code*:
+*VS Code* är en fantastisk editor som är gratis och som fungerar på alla plattformar:
 https://www.youtube.com/watch?v=B-s71n0dHUk&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6
 
 ### Kortare prompt i Powershell
 
-I terminalen i *VS Code* är prompten väldigt lång.  
+I terminalen i *VS Code* blir prompten väldigt lång.  
 Gör följande för att korta ned prompten i Terminalen/Konsolen i *VS Code*.
 
 * *Öppna* **terminalen** och *skriv/kör* dessa rader:
@@ -58,47 +58,3 @@ Github är en tjänst för att lagra och dela kod. Du kommer att använda github
   * Valfritt lösenord
   * Använd din skolmail
 
-## Webbsnippets
-
-* Skapa User Snippets för webb
-
-```json
-{
-	"CSS reset": {
-		"scope": "css",
-		"prefix": "reset",
-		"description": "Enkel CSS reset",
-		"body": [
-			"/* Enkel CSS-reset */",
-			"html {",
-			"\tbox-sizing: border-box;",
-			"}",
-			"*, *:before, *:after {",
-			"\tbox-sizing: inherit;",
-			"}",
-			"body, h1, h2, h3, h4, h5, h6, p, ul {",
-			"\tmargin: 0;",
-			"\tpadding: 0;",
-			"}"
-		]
-	},
-	"HTML5_grundkod": {
-		"prefix": "html5",
-		"description": "HTML5 grundkod",
-		"body": [
-			"<!DOCTYPE html>",
-			"<html lang=\"sv\">",
-			"<head>",
-			"\t<meta charset=\"utf-8\">",
-			"\t<meta name=\"viewport\" content=\"width=device-width, ,initial-scale=1\">",
-			"\t<title></title>",
-			"\t<link rel=\"stylesheet\" href=\"style.css\">",
-			"</head>",
-			"<body>",
-			"\t${1}",
-			"</body>",
-			"</html>"
-		]
-	}
-}
-```
