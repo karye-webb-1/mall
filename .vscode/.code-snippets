@@ -18,6 +18,7 @@
 		]
 	},
 	"HTML5_grundkod": {
+		"scope": "html",
 		"prefix": "html5",
 		"description": "HTML5 grundkod",
 		"body": [
