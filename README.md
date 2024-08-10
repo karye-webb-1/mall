@@ -33,7 +33,7 @@ Här är några tillägg att installera:
 I terminalen i *VS Code* är prompten väldigt lång.  
 Gör följande för att korta ned prompten i Terminalen/Konsolen i *VS Code*.
 
-* Öppna terminalen och skriv/kör dessa rader:
+* **Öppna** terminalen och **skriv/kör** dessa rader:
 
 ```powershell
 test-path $profile
@@ -41,7 +41,7 @@ new-item -path $profile -itemtype file -force
 code $profile
 ```
 
-* Skriv in följande i filen och spara:
+* **Skriv in** följande i filen och spara:
 
 ```powershell
 function prompt {
@@ -50,7 +50,7 @@ function prompt {
 }
 ```
 
-* I terminalen skriv/kör:
+* I terminalen **skriv/kör**:
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
