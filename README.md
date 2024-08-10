@@ -28,25 +28,6 @@ Här är några tillägg att installera:
 
 ![](<.gitbook/assets/image (108).png>)
 
-### Inställningar i VS Code
-
-För att underlätta arbetet med *VS Code*, gör vi följande inställningar (Settings):
-
-* [Multi-cursor](https://code.visualstudio.com/docs/editor/codebasics#\_multiple-selections-multicursor) – Välj Ctrl-Cmd  
-Det här gör att du kan skriva på flera ställen samtidigt i sidan.
-
-![](../.gitbook/assets/image-75.png)
-
-* [Compact folders](https://code.visualstudio.com/updates/v1\_41#\_compact-folders-in-explorer) – Stäng av  
-Det här gör att mapparna i sidomenyn inte visas som en lista utan som en trädstruktur.
-
-![](../.gitbook/assets/image-76.png)
-
-* [Code lens](https://code.visualstudio.com/blogs/2017/02/12/code-lens-roundup) - Stäng av  
-Det här gör att koden på sidan blir mer kompakt och lättare att läsa.
-
-![](../.gitbook/assets/image-77.png)
-
 ### Kortare prompt i Powershell
 
 I terminalen i *VS Code* är prompten väldigt lång.  
